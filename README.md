@@ -1,2 +1,8 @@
 # Computer-Visions
-Computer Visions course, Hanyang University
+Practice codes for Computer Visions course
+
+# Course
+Multimedia Information Processing, Hanyang University
+
+# Instructor
+Dr. Young Shik Moon
